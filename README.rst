@@ -55,7 +55,7 @@ Installation on Ubuntu 14.04 (and older)
 ::
 
     $ sudo apt-get install python-dev python-pip libxml2-dev libxslt-dev zlib1g-dev
-    $ sudo pip install stix
+    $ pip install stix
 
 Installation on Windows
 ~~~~~~~~~~~~~~~~~~~~~~~
